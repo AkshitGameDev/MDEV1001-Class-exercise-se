@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ClassEX1",
+            "database": "${workspaceFolder:MDEV1001-Class-exercise-se}/Class-Exer1.db"
+        }
+    ]
+}
