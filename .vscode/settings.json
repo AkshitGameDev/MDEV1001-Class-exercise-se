@@ -11,6 +11,12 @@
             "driver": "SQLite",
             "name": "ClassExcercise1",
             "database": "${workspaceFolder:MDEV1001-Class-exercise-se}/Class-Exer1.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:MDEV1001-Class-exercise-se}/Main folder/Class-Exer1.db",
+            "name": "Assignment"
         }
     ]
 }
